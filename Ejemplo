@@ -1,1 +1,7 @@
-Hola soy un ejemplo
+<!DOCTYPE html>
+<head>
+  <title>Ejemplo</title>
+</head>
+<body>
+  <center><h1>Hola!!!</h1></center>
+</body>
